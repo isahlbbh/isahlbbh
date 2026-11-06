@@ -28,7 +28,7 @@ My learning journey involves building real projects, exploring modern technologi
 - ⚛️ Focused on React and JavaScript
 - 🌱 Continuously improving my Front-end skills
 - 🧩 Interested in clean code and reusable components
-- 🚀 Looking for my first opportunity as a **Junior Front-end Developer**
+- 🚀 Looking for my first opportunity as a **Front-end Developer**
 - 🌍 Advanced English
 
 ---
